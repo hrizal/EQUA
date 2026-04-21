@@ -2,7 +2,8 @@
 
 Equa Pro is a high-performance, studio-grade 31-band graphic equalizer for Windows. Built with a parallel DSP engine, it provides ultra-precise frequency control with zero-latency signal processing.
 
-![Equa Pro Screenshot](https://raw.githubusercontent.com/User/equa/main/screenshot.png) *(Note: Replace with your actual screenshot link)*
+<img width="931" height="551" alt="image" src="https://github.com/user-attachments/assets/86039bc7-056b-43bc-aff5-2afa3ec1c37e" />
+
 
 ## 🚀 Features
 - **31-Band Precision**: Full control over the 20Hz - 20kHz frequency spectrum.
