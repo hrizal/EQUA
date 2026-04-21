@@ -1,0 +1,2 @@
+# EQUA
+Equalizer for Windows 
